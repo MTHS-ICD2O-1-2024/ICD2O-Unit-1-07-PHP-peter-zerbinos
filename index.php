@@ -19,7 +19,7 @@
         />
     <link
       rel="stylesheet"
-      href="https://code.getmdl.io/1.3.0/material.purple-deep_orange.min.css"
+      href="https://code.getmdl.io/1.3.0/material.lime-light_green.min.css"
     />
     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png" />
